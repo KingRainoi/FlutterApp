@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477966665708",
+    "project_id": "charlyn-mobile-prototype",
+    "storage_bucket": "charlyn-mobile-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477966665708:android:540ac39293b6dc5404a2c9",
+        "android_client_info": {
+          "package_name": "com.example.charlyn_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmV-jWBQXaAwsUIsxmIwbedshwAzWbr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
